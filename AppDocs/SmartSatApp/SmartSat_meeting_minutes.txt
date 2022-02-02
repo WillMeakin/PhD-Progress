@@ -1,0 +1,39 @@
+[6, 15, 16, 39, 56, 61]01
+
+
+Ian's lab.
+XView3 dataset, SAR imagery
+
+Fishing vessel: Processing on ground.
+
+On board processing. 
+
+Tan's research fellowship
+
+Electronic attack/protection
+Signal processing
+
+Robustify algorithm.
+CVPR for
+
+Multispectral optical dataset (Worldview 2/3 satellite)
+
+Commercial capture dataset with patches
+
+SAR SENSOR
+
+The Deep plane
+
+DICTA conference.
+
+Phisat 1, 5MB data and model.
+
+Lightweight networkds more susceptible to attacks
+Why?
+Nature of early layers building?
+
+Pruning / retrain to moving target?
+
+Send CV to Tan Cao
+
+Darenet
